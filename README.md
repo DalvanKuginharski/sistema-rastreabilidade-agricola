@@ -106,13 +106,9 @@ Depois execute:
 ```bash
 python main.py
 ```
-
-## Observação importante
-Não publique credenciais reais no GitHub.
-
 ## Integrantes
-- Preencher nomes do grupo
+- Dalvan Kuginharski
 
 ## Repositório
-- GitHub: preencher link
+- GitHub: https://github.com/DalvanKuginharski/sistema-rastreabilidade-agricola/blob/39912f71fabc6a3853675dc7b93739a4800d7e0b/README.md)
 - Wokwi: https://wokwi.com/projects/461490404470609921
